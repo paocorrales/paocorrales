@@ -2,14 +2,14 @@
 
 If you are interested in...
 
-### R Packages
+### R Packages 📦
 
 * [agroclimatico](https://github.com/AgRoMeteorologiaINTA/agroclimatico): tools to analyse agroclimatic data.
 * [SISINTAR](https://github.com/INTA-Suelos/SISINTAR): functions and tools to access and manage soil data.
 * [SISINTAR web](https://github.com/INTA-Suelos/sisintar-web): shiny app to interface with SISINTAR
 * [rvad](https://github.com/paocorrales/rvad): package to process radar data and estimate the wind velocity
 
-### Atmospheric Science
+### Atmospheric Science ⛈️
 
 * [My PhD dissertation](https://github.com/paocorrales/Tesis_doctorado): code source for my PhD disertation available [here](https://paocorrales.github.io/Tesis_doctorado/).
 * [Data Assimilation Docs](https://github.com/paocorrales/DA-documentation): examples, tutorials, scripts and in general a comprehensive documentation around the GSI system V3.7 - EnKF V1.3
@@ -18,7 +18,7 @@ If you are interested in...
 * [Code that generates visualizations of RELAMPAGO reports](https://github.com/paocorrales/relampagoreportes)
 * [My master dissertation](https://github.com/paocorrales/tesis-VAD)
 
-### Teaching
+### Teaching 👩‍🏫
 
 * An R reproducibility toolkit for the practical researcher: [web](https://reproducibility.rocks/), [repo](https://github.com/eliocamp/reproducibility-with-r)
 * Developing Software Together: using Git: [web](https://paocorrales.github.io/git-developing-software-together/), [repo](https://github.com/paocorrales/git-developing-software-together)
@@ -33,7 +33,7 @@ If you are interested in...
 * Primeros pasos con Tidymodels: [web](https://paocorrales.github.io/intro-tidymodels-agro/), [repo](https://github.com/paocorrales/intro-tidymodels-agro)
 * Árboles y bosques de desición aplicados a meteorología: [repo](https://github.com/paocorrales/arboles_y_bosques)
 
-### Misc
+### Misc 🔭
 
 * [The first half of 30 days map challenge 2023](https://github.com/paocorrales/30DayMapChallenge2023) with code and opinions!
 
